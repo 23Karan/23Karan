@@ -66,7 +66,7 @@ Programming · DSA · DBMS · Operating Systems · Networks · AI/ML · Cloud ·
 
 **Current GitHub snapshot**
 
-Loading the latest activity…
+Updating from recent repository activity…
 
 <!--END_SECTION:now-->
 
@@ -120,7 +120,7 @@ Loading the latest activity…
 ### `> let's build something useful.`
 
 <a href="https://www.linkedin.com/in/b-karan-bahadur-9618b4306"><img src="https://img.shields.io/badge/CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-<a href="mailto:bahadurkaran669@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"></a>
+<a href="mailto:bahadurkaran669@gmail.com"><img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact on email"></a>
 
 <br><br>
 
