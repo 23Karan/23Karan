@@ -1,8 +1,8 @@
 # Hi, I'm B. Karan Bahadur 👋
 
-### B.Tech CSE Student | Aspiring Software & Data Engineer
+### Aspiring Software & Data Engineer
 
-I’m a 3rd-year Computer Science and Engineering student passionate about building practical software, learning data engineering, and exploring AI-powered solutions.
+I’m passionate about building practical software, learning data engineering, and exploring AI-powered solutions.
 
 - 🎓 B.Tech CSE — Siddharth Institute of Engineering and Technology, Puttur
 - 💻 Strengthening **Java, Python, SQL, DBMS, Data Structures & Algorithms**
