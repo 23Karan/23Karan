@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:06b6d4&height=190&section=header&text=B.%20Karan%20Bahadur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Data%20%7C%20Cloud%20%7C%20AI&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:eff6ff,100:dbeafe&height=190&section=header&text=B.%20Karan%20Bahadur&fontSize=42&fontColor=111827&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Data%20%7C%20Cloud%20%7C%20AI&descAlignY=62&descSize=18&descColor=2563eb" width="100%" />
 
 ### Aspiring Software & Data Engineer
 
 Building practical software, exploring data engineering, cloud technologies and AI.
 
-[![GitHub](https://img.shields.io/badge/GitHub-23Karan-181717?style=flat-square&logo=github)](https://github.com/23Karan)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bahadurkaran669@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-23Karan-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/23Karan) [![Email](https://img.shields.io/badge/Email-Contact-2563eb?style=flat-square&logo=gmail&logoColor=white)](mailto:bahadurkaran669@gmail.com)
 
 </div>
 
@@ -17,23 +16,22 @@ Building practical software, exploring data engineering, cloud technologies and 
 
 I enjoy turning ideas into practical projects and continuously improving my software engineering fundamentals.
 
-- 🎓 **B.Tech CSE** — Siddharth Institute of Engineering and Technology, Puttur
-- 💻 **Java · Python · SQL · C · DSA · DBMS**
-- ☁️ **Cloud · Docker · Terraform · DevOps · Data Engineering**
-- 🤖 **AI/ML · Automation · Intelligent Applications**
-- 🚀 Focused on building useful, portfolio-ready projects
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE — Siddharth Institute of Engineering and Technology, Puttur |
+| 💻 **Core Skills** | Java · Python · SQL · C · DSA · DBMS |
+| ☁️ **Engineering** | Cloud · Docker · Terraform · DevOps · Data Engineering |
+| 🤖 **Interests** | AI/ML · Automation · Intelligent Applications |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
-| 💻 Languages & CS | ☁️ Cloud & DevOps | 📊 Data & AI |
-|:---:|:---:|:---:|
-| Java · Python · C | AWS · Azure · GCP | SQL · MySQL |
-| DSA · OOP · DBMS | Docker · Terraform | Data Engineering |
-| Computer Networks | Prometheus · Grafana | AI · ML |
+`Java` · `Python` · `C` · `SQL` · `MySQL` · `DSA` · `DBMS`  
+`AWS` · `Azure` · `GCP` · `Docker` · `Terraform` · `Prometheus` · `Grafana`  
+`AI` · `Machine Learning` · `Data Engineering` · `Git` · `GitHub`
 
 </div>
 
@@ -41,10 +39,17 @@ I enjoy turning ideas into practical projects and continuously improving my soft
 
 ## 🚀 What I'm Working On
 
-- Strengthening **Python, Java, SQL and DSA**
-- Building **software and data engineering projects**
-- Learning **cloud infrastructure and DevOps workflows**
-- Exploring practical **AI and automation** solutions
+**01 — Programming**  
+Strengthening Python, Java, SQL and problem-solving.
+
+**02 — Data Engineering**  
+Building stronger foundations in data, databases and pipelines.
+
+**03 — Cloud & DevOps**  
+Learning cloud infrastructure, containers and automation.
+
+**04 — AI**  
+Exploring practical AI and intelligent automation solutions.
 
 ---
 
@@ -52,19 +57,21 @@ I enjoy turning ideas into practical projects and continuously improving my soft
 
 <div align="center">
 
-### 📖 [23Karan/study](https://github.com/23Karan/study)
+### [📖 23Karan / study](https://github.com/23Karan/study)
 
-A structured **B.Tech CSE Study Hub** containing programming, DSA, DBMS, operating systems, computer networks, AI/ML, cloud, security, SQL, DevOps and interview preparation material.
+**B.Tech CSE Study Hub**
+
+Programming · DSA · DBMS · OS · Networks · AI/ML · Cloud · Security · SQL · DevOps · Interview Preparation
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Development Path
 
 <div align="center">
 
-**Software Development** → **Data Engineering** → **Cloud & DevOps** → **AI & Automation**
+**Software Development**  →  **Data Engineering**  →  **Cloud & DevOps**  →  **AI & Automation**
 
 </div>
 
@@ -73,10 +80,10 @@ A structured **B.Tech CSE Study Hub** containing programming, DSA, DBMS, operati
 ## 🏆 Goals
 
 - Build production-quality projects
-- Improve problem-solving and DSA
+- Improve DSA and problem-solving
 - Develop strong SQL and data engineering skills
 - Gain practical cloud and DevOps experience
-- Contribute to open-source projects
+- Contribute to open source
 - Prepare for software and data engineering opportunities
 
 ---
@@ -85,9 +92,9 @@ A structured **B.Tech CSE Study Hub** containing programming, DSA, DBMS, operati
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Karan&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Karan&bg_color=ffffff&color=2563eb&line=60a5fa&point=111827&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
 
-<br><br>
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=23Karan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
 
@@ -101,6 +108,6 @@ A structured **B.Tech CSE Study Hub** containing programming, DSA, DBMS, operati
 
 **Software Development · Data Engineering · Cloud · AI**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:111827&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eff6ff,50:dbeafe,100:ffffff&height=110&section=footer" width="100%" />
 
 </div>
