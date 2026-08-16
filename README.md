@@ -62,15 +62,11 @@ A structured **B.Tech CSE Study Hub** containing programming, DSA, DBMS, operati
 
 ## 🎯 Current Focus
 
-```text
-Software Development  ──┐
-                        ├──► Strong Engineering Fundamentals
-Data Engineering      ──┤
-                        │
-Cloud & DevOps         ──┤
-                        │
-AI & Automation        ──┘
-```
+<div align="center">
+
+**Software Development** → **Data Engineering** → **Cloud & DevOps** → **AI & Automation**
+
+</div>
 
 ---
 
@@ -85,16 +81,15 @@ AI & Automation        ──┘
 
 ---
 
-## 📊 GitHub Overview
+## ✨ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=23Karan&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Karan&layout=compact&hide_border=true&theme=transparent" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Karan&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity" width="95%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=23Karan&hide_border=true&theme=transparent" />
+<img src="https://github-profile-trophy.vercel.app/?username=23Karan&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
 
 </div>
 
