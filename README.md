@@ -1,60 +1,64 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="B. Karan Bahadur — Software Engineering, Data, Cloud" />
+<img src="./assets/profile-hero.svg" width="100%" alt="B. Karan Bahadur" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&height=36&lines=software+engineering+%2F+data+%2F+cloud;build+cleanly+%E2%80%A2+learn+continuously+%E2%80%A2+ship+usefully" alt="Animated tagline" />
+<a href="https://github.com/23Karan"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=800&color=475569&center=true&vCenter=true&width=720&height=34&lines=software+engineering+%2F+data+%2F+cloud;build+%E2%86%92+learn+%E2%86%92+improve" alt="Animated tagline" /></a>
 
 <p>
 <a href="https://github.com/23Karan"><img src="https://img.shields.io/badge/GitHub-23Karan-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/b-karan-bahadur-9618b4306"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:bahadurkaran669@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=23Karan&label=views&style=flat-square&color=2563EB" alt="Profile views" />
 </p>
 
 </div>
 
 ---
 
-## `01` — ABOUT
+## HELLO, I'M KARAN
 
-I build software with an emphasis on **clarity, reliability and maintainability**.
+I enjoy turning ideas into software that is **clear, useful and maintainable**.
 
-My interests sit at the intersection of **application development, data systems, cloud infrastructure and automation**. I like readable code, sensible architecture and projects that solve a real problem rather than simply demonstrating a technology.
-
-> **Build deliberately. Learn continuously. Leave the code better than you found it.**
-
----
-
-## `02` — STACK
+My focus is around **Java, Python, SQL, data systems, cloud and engineering fundamentals**. I learn fastest by building real things, understanding how they work, and improving them one iteration at a time.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql,git,github,docker,terraform,aws,azure,gcp&perline=7" alt="Technology stack" />
+`SOFTWARE` &nbsp;·&nbsp; `DATA` &nbsp;·&nbsp; `CLOUD` &nbsp;·&nbsp; `DEVOPS`
 
 </div>
 
 ---
 
-## `03` — SELECTED WORK
+## WHAT I WORK WITH
 
-<table>
+<table width="100%">
 <tr>
-<td width="72%" valign="top">
+<td width="33%" valign="top">
 
-### study.
+### LANGUAGES
 
-A structured CSE knowledge repository covering **programming, DSA, DBMS, operating systems, networks, AI/ML, cloud, security, SQL and DevOps**.
+<img src="https://skillicons.dev/icons?i=java,python,c" height="42" alt="Java Python C" />
+
+**Java · Python · C · SQL**
 
 </td>
-<td width="28%" align="center" valign="middle">
+<td width="33%" valign="top">
 
-<a href="https://github.com/23Karan/study"><img src="https://img.shields.io/badge/VIEW-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View study" /></a>
+### DATA & CLOUD
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,aws,azure,gcp" height="42" alt="MySQL AWS Azure Google Cloud" />
 
-<img src="https://img.shields.io/github/stars/23Karan/study?style=flat-square&label=stars&color=F59E0B" alt="Study stars" />
+**SQL · Databases · Cloud**
+
+</td>
+<td width="33%" valign="top">
+
+### ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,terraform" height="42" alt="Git GitHub Docker Terraform" />
+
+**Git · GitHub · Docker · Terraform**
 
 </td>
 </tr>
@@ -62,38 +66,59 @@ A structured CSE knowledge repository covering **programming, DSA, DBMS, operati
 
 ---
 
-## `04` — GITHUB OVERVIEW
+## FEATURED
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+### `study.`
+
+A structured CSE knowledge repository covering programming, DSA, DBMS, operating systems, networks, AI/ML, cloud, security, SQL and DevOps.
+
+The goal is simple: turn scattered learning into a **searchable, reusable engineering reference**.
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+<a href="https://github.com/23Karan/study"><img src="https://img.shields.io/badge/EXPLORE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore study" /></a>
+
+<br><br>
+
+<a href="https://github.com/23Karan/study"><img src="https://img.shields.io/github/stars/23Karan/study?style=flat-square&label=STARS&color=F59E0B" alt="Study stars" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## GITHUB / SIGNALS
 
 <div align="center">
 
-<a href="https://github.com/23Karan">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=23Karan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=111827&text_color=4B5563&icon_color=2563EB" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/23Karan">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Karan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=111827&text_color=4B5563" alt="Top languages" />
-</a>
+<a href="https://github.com/23Karan"><img height="165" src="https://github-readme-stats.vercel.app/api?username=23Karan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=111827&text_color=475569&icon_color=2563EB" alt="GitHub statistics" /></a>
+<a href="https://github.com/23Karan"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Karan&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=111827&text_color=475569" alt="Top languages" /></a>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23Karan&theme=default" width="96%" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23Karan&theme=default" width="96%" alt="GitHub profile details" />
 
 </div>
 
 ---
 
-## `05` — CONTRIBUTION ACTIVITY
+## CONTRIBUTION MAP
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Karan&bg_color=ffffff&color=374151&line=2563EB&point=111827&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Karan&bg_color=ffffff&color=475569&line=2563EB&point=111827&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution activity" />
 
 </div>
 
 ---
 
-## `06` — RECOGNITION
+## GITHUB TROPHIES
 
 <div align="center">
 
@@ -103,19 +128,19 @@ A structured CSE knowledge repository covering **programming, DSA, DBMS, operati
 
 ---
 
-## `07` — NOW
+## CURRENTLY BUILDING
 
 <table width="100%">
 <tr>
-<td align="center" width="33%"><b>BUILD</b><br><sub>software & projects</sub></td>
-<td align="center" width="33%"><b>EXPLORE</b><br><sub>data & cloud systems</sub></td>
-<td align="center" width="33%"><b>IMPROVE</b><br><sub>engineering fundamentals</sub></td>
+<td align="center" width="33%"><b>BUILD</b><br><sub>projects that solve problems</sub></td>
+<td align="center" width="33%"><b>LEARN</b><br><sub>data & cloud systems</sub></td>
+<td align="center" width="33%"><b>IMPROVE</b><br><sub>code & engineering fundamentals</sub></td>
 </tr>
 </table>
 
 ---
 
-## `08` — CONNECT
+## LET'S CONNECT
 
 <div align="center">
 
@@ -124,12 +149,12 @@ A structured CSE knowledge repository covering **programming, DSA, DBMS, operati
 
 <br><br>
 
-<sub>Software · Data · Cloud</sub>
+<sub>Good software is not about adding more. It is about making the right things work well.</sub>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:111827,50:1E3A8A,100:2563EB" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&color=0:111827,50:1E3A8A,100:2563EB" width="100%" alt="Footer" />
 </div>
