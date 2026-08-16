@@ -6,7 +6,7 @@
 
 Building practical software, exploring data engineering, cloud technologies and AI.
 
-[![GitHub](https://img.shields.io/badge/GitHub-23Karan-050816?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/23Karan) [![Email](https://img.shields.io/badge/Email-Contact-581c87?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:bahadurkaran669@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-23Karan-050816?style=flat-square&logo=github&logoColor=67e8f9)](https://github.com/23Karan) [![Email](https://img.shields.io/badge/Email-Contact-050816?style=flat-square&logo=gmail&logoColor=67e8f9)](mailto:bahadurkaran669@gmail.com)
 
 </div>
 
@@ -32,14 +32,17 @@ I enjoy building practical projects and strengthening my foundations in software
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-050816?style=for-the-badge&logo=openjdk&logoColor=00ffff)
-![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=22d3ee)
-![C](https://img.shields.io/badge/C-050816?style=for-the-badge&logo=c&logoColor=a78bfa)
-![SQL](https://img.shields.io/badge/SQL-050816?style=for-the-badge&logo=mysql&logoColor=22d3ee)
-![Docker](https://img.shields.io/badge/Docker-050816?style=for-the-badge&logo=docker&logoColor=38bdf8)
-![Terraform](https://img.shields.io/badge/Terraform-050816?style=for-the-badge&logo=terraform&logoColor=a78bfa)
-![AWS](https://img.shields.io/badge/AWS-050816?style=for-the-badge&logo=amazonaws&logoColor=fbbf24)
-![Git](https://img.shields.io/badge/Git-050816?style=for-the-badge&logo=git&logoColor=f97316)
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" height="48" />
+
+### Data & Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="48" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,git,github&theme=dark" height="48" />
 
 </div>
 
