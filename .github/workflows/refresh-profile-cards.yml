@@ -1,0 +1,36 @@
+name: Refresh profile cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download live GitHub statistics
+        run: |
+          mkdir -p assets
+          curl -fsSL --retry 3 "https://github-readme-stats.vercel.app/api?username=23Karan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0b1220&title_color=38bdf8&text_color=e2e8f0&icon_color=818cf8&rank_icon=github" -o assets/github-stats.svg
+          curl -fsSL --retry 3 "https://github-readme-stats.vercel.app/api/top-langs/?username=23Karan&layout=compact&langs_count=8&hide_border=true&bg_color=0b1220&title_color=38bdf8&text_color=e2e8f0" -o assets/top-languages.svg
+          curl -fsSL --retry 3 "https://streak-stats.demolab.com/?user=23Karan&theme=tokyonight&hide_border=true&background=0b1220&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" -o assets/streak.svg
+          curl -fsSL --retry 3 "https://github-profile-trophy.vercel.app/?username=23Karan&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" -o assets/trophies.svg
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-languages.svg assets/streak.svg assets/trophies.svg
+          git diff --cached --quiet || git commit -m "chore: refresh GitHub profile cards"
+          git push
