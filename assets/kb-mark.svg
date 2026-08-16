@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" role="img" aria-label="KB monogram">
+  <rect width="420" height="120" rx="18" fill="#ffffff"/>
+  <path d="M32 24v72M32 60l42-36M32 60l42 36" fill="none" stroke="#171717" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M104 24v72M104 24h42c28 0 28 36 0 36h-42M104 60h45c30 0 30 36 0 36h-45" fill="none" stroke="#171717" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M206 60h150" stroke="#b08d57" stroke-width="2"/>
+  <text x="206" y="48" fill="#171717" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" letter-spacing="5">KARAN BAHADUR</text>
+  <text x="206" y="79" fill="#777777" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="3">SOFTWARE ENGINEERING</text>
+</svg>
