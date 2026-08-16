@@ -11,7 +11,6 @@
 <a href="mailto:bahadurkaran669@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br /><br />
-
 <img src="https://komarev.com/ghpvc/?username=23Karan&label=PROFILE+VIEWS&style=flat-square&color=2563EB" alt="Profile views" />
 
 </div>
@@ -24,11 +23,7 @@ I build software with an emphasis on **clarity, reliability and maintainability*
 
 I prefer simple designs, readable code and practical solutions—and I improve by building, testing and refining.
 
-<div align="center">
-
-`DSA` &nbsp;·&nbsp; `SQL` &nbsp;·&nbsp; `Data Engineering` &nbsp;·&nbsp; `Cloud` &nbsp;·&nbsp; `DevOps` &nbsp;·&nbsp; `AI/ML`
-
-</div>
+<div align="center"><code>DSA</code> · <code>SQL</code> · <code>Data Engineering</code> · <code>Cloud</code> · <code>DevOps</code> · <code>AI/ML</code></div>
 
 ---
 
@@ -82,24 +77,23 @@ A structured CSE knowledge repository covering **programming, DSA, DBMS, operati
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/23Karan?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="Followers" />
-<img src="https://img.shields.io/badge/Public%20Repositories-2-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
-<img src="https://img.shields.io/github/stars/23Karan?label=Stars&style=for-the-badge&logo=github&color=F59E0B" alt="Stars" />
-<img src="https://img.shields.io/github/commit-activity/y/23Karan/23Karan?label=Yearly%20Activity&style=for-the-badge&logo=github&color=10B981" alt="Yearly activity" />
+<img src="https://img.shields.io/github/followers/23Karan?label=FOLLOWERS&style=for-the-badge&logo=github&color=2563EB" alt="Followers" />
+<img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-2-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+<img src="https://img.shields.io/github/stars/23Karan?label=STARS&style=for-the-badge&logo=github&color=F59E0B" alt="Stars" />
+<img src="https://img.shields.io/github/commit-activity/y/23Karan/23Karan?label=ACTIVITY&style=for-the-badge&logo=github&color=10B981" alt="Yearly activity" />
 
 <br /><br />
 
-<table align="center">
-<tr>
-<td align="center" width="250"><b>Repositories</b><br /><br /><a href="https://github.com/23Karan?tab=repositories"><img src="https://img.shields.io/badge/2-Public-2563EB?style=for-the-badge" alt="2 public repositories" /></a></td>
-<td align="center" width="250"><b>Followers</b><br /><br /><a href="https://github.com/23Karan"><img src="https://img.shields.io/github/followers/23Karan?style=for-the-badge&label=0&color=0F172A" alt="0 followers" /></a></td>
-<td align="center" width="250"><b>Stars received</b><br /><br /><a href="https://github.com/23Karan?tab=repositories"><img src="https://img.shields.io/badge/0-Stars-F59E0B?style=for-the-badge" alt="0 stars" /></a></td>
-</tr>
-</table>
+**Languages & tools**
+
+<img src="https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=111827" alt="AWS" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </div>
-
-> **Languages:** GitHub currently reports no detected language bytes for the public repositories, so I have intentionally removed the broken **Top Languages** image instead of showing a fabricated chart. citeturn40file0
 
 ---
 
@@ -118,15 +112,8 @@ A structured CSE knowledge repository covering **programming, DSA, DBMS, operati
 ## GitHub Recognition
 
 <div align="center">
-
-<a href="https://github.com/23Karan?tab=repositories">
-<img src="https://img.shields.io/badge/PROFILE-2%20PUBLIC%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-
-<a href="https://github.com/23Karan/study">
-<img src="https://img.shields.io/badge/PROJECT-STUDY-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="study project" />
-</a>
-
+<a href="https://github.com/23Karan?tab=repositories"><img src="https://img.shields.io/badge/PROFILE-2%20PUBLIC%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/23Karan/study"><img src="https://img.shields.io/badge/PROJECT-STUDY-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="study project" /></a>
 </div>
 
 ---
@@ -134,18 +121,11 @@ A structured CSE knowledge repository covering **programming, DSA, DBMS, operati
 ## Connect
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/b-karan-bahadur-9618b4306"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:bahadurkaran669@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
 <br /><br />
-
 <sub>Build deliberately. Keep learning. Leave the code better than you found it.</sub>
-
 </div>
 
 <br />
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB" width="100%" alt="footer" />
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB" width="100%" alt="footer" /></div>
