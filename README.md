@@ -1,84 +1,60 @@
 <div align="center">
 
-<a href="https://github.com/23Karan"><img src="./assets/profile-hero.svg" width="100%" alt="B. Karan Bahadur — Software Engineering, Data, Cloud" /></a>
+<img src="./assets/profile-hero.svg" width="100%" alt="B. Karan Bahadur — Software Engineering, Data, Cloud" />
 
 <br>
 
-<a href="https://github.com/23Karan"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=64748B&center=true&vCenter=true&width=620&height=32&lines=build+%E2%80%A2+learn+%E2%80%A2+ship;software+engineering+%E2%80%A2+data+%E2%80%A2+cloud" alt="Animated engineering tagline" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&height=36&lines=software+engineering+%2F+data+%2F+cloud;build+cleanly+%E2%80%A2+learn+continuously+%E2%80%A2+ship+usefully" alt="Animated tagline" />
 
-<br><br>
-
-<a href="https://github.com/23Karan"><img src="https://img.shields.io/badge/GITHUB-23KARAN-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/b-karan-bahadur-9618b4306"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:bahadurkaran669@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=23Karan&label=PROFILE+VIEWS&style=flat-square&color=2563EB" alt="Profile views" />
+<p>
+<a href="https://github.com/23Karan"><img src="https://img.shields.io/badge/GitHub-23Karan-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/b-karan-bahadur-9618b4306"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bahadurkaran669@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=23Karan&label=views&style=flat-square&color=2563EB" alt="Profile views" />
+</p>
 
 </div>
 
 ---
 
-## ABOUT
+## `01` — ABOUT
 
 I build software with an emphasis on **clarity, reliability and maintainability**.
 
-My interests sit where **application development, data systems, cloud infrastructure and automation** meet. I value readable code, sensible architecture and solutions that are useful outside the demo.
+My interests sit at the intersection of **application development, data systems, cloud infrastructure and automation**. I like readable code, sensible architecture and projects that solve a real problem rather than simply demonstrating a technology.
+
+> **Build deliberately. Learn continuously. Leave the code better than you found it.**
+
+---
+
+## `02` — STACK
 
 <div align="center">
 
-`JAVA` · `PYTHON` · `SQL` · `DATA` · `CLOUD` · `DEVOPS`
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql,git,github,docker,terraform,aws,azure,gcp&perline=7" alt="Technology stack" />
 
 </div>
 
 ---
 
-## ENGINEERING STACK
+## `03` — SELECTED WORK
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
-
-<br>
-
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
-<img src="https://img.shields.io/badge/Google%20Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform" />
-
-</div>
-
----
-
-## SELECTED WORK
-
-<table width="100%">
+<table>
 <tr>
-<td width="68%" valign="top">
+<td width="72%" valign="top">
 
-### `study.`
+### study.
 
-A structured CSE knowledge repository covering programming, DSA, DBMS, operating systems, networks, AI/ML, cloud, security, SQL and DevOps.
+A structured CSE knowledge repository covering **programming, DSA, DBMS, operating systems, networks, AI/ML, cloud, security, SQL and DevOps**.
 
 </td>
-<td width="32%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-<a href="https://github.com/23Karan/study"><img src="https://img.shields.io/badge/OPEN%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open study repository" /></a>
+<a href="https://github.com/23Karan/study"><img src="https://img.shields.io/badge/VIEW-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View study" /></a>
 
 <br><br>
 
-<a href="https://github.com/23Karan/study"><img src="https://img.shields.io/github/stars/23Karan/study?style=flat-square&label=STARS&color=F59E0B" alt="Study stars" /></a>
+<img src="https://img.shields.io/github/stars/23Karan/study?style=flat-square&label=stars&color=F59E0B" alt="Study stars" />
 
 </td>
 </tr>
@@ -86,49 +62,60 @@ A structured CSE knowledge repository covering programming, DSA, DBMS, operating
 
 ---
 
-## GITHUB SNAPSHOT
-
-<div align="center">
-
-<a href="https://github.com/23Karan?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-2-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="2 public repositories" /></a>
-<a href="https://github.com/23Karan"><img src="https://img.shields.io/github/followers/23Karan?label=FOLLOWERS&style=for-the-badge&color=111827&logo=github&logoColor=white" alt="Followers" /></a>
-<a href="https://github.com/23Karan?tab=repositories"><img src="https://img.shields.io/github/stars/23Karan?label=STARS&style=for-the-badge&color=F59E0B&logo=github&logoColor=white" alt="Stars" /></a>
-
-<br><br>
-
-<img src="https://img.shields.io/github/last-commit/23Karan/23Karan?label=LAST%20PROFILE%20UPDATE&style=flat-square&color=2563EB" alt="Last profile update" />
-<img src="https://img.shields.io/github/commit-activity/y/23Karan/23Karan?label=YEARLY%20ACTIVITY&style=flat-square&color=10B981" alt="Yearly activity" />
-
-</div>
-
-> **Note:** I intentionally use live GitHub/Shield metrics here instead of fabricated statistics or fragile third-party charts. The numbers therefore remain tied to the actual account.
-
----
-
-## CONTRIBUTION ACTIVITY
+## `04` — GITHUB OVERVIEW
 
 <div align="center">
 
 <a href="https://github.com/23Karan">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Karan&bg_color=ffffff&color=334155&line=2563EB&point=0F172A&area_color=DBEAFE&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="GitHub contribution activity graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=23Karan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=111827&text_color=4B5563&icon_color=2563EB" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/23Karan">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Karan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=111827&text_color=4B5563" alt="Top languages" />
 </a>
 
 </div>
 
----
-
-## RECOGNITION
-
 <div align="center">
 
-<a href="https://github.com/23Karan?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-2%20PUBLIC%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open source profile" /></a>
-<a href="https://github.com/23Karan/study"><img src="https://img.shields.io/badge/FEATURED%20PROJECT-STUDY-111827?style=for-the-badge&logo=github&logoColor=white" alt="Featured project" /></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23Karan&theme=default" width="96%" alt="Profile details" />
 
 </div>
 
 ---
 
-## CONNECT
+## `05` — CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23Karan&bg_color=ffffff&color=374151&line=2563EB&point=111827&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution activity" />
+
+</div>
+
+---
+
+## `06` — RECOGNITION
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=23Karan&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="96%" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## `07` — NOW
+
+<table width="100%">
+<tr>
+<td align="center" width="33%"><b>BUILD</b><br><sub>software & projects</sub></td>
+<td align="center" width="33%"><b>EXPLORE</b><br><sub>data & cloud systems</sub></td>
+<td align="center" width="33%"><b>IMPROVE</b><br><sub>engineering fundamentals</sub></td>
+</tr>
+</table>
+
+---
+
+## `08` — CONNECT
 
 <div align="center">
 
@@ -137,12 +124,12 @@ A structured CSE knowledge repository covering programming, DSA, DBMS, operating
 
 <br><br>
 
-<sub>Build deliberately. Keep learning. Leave the code better than you found it.</sub>
+<sub>Software · Data · Cloud</sub>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1220,50:1E3A8A,100:2563EB" width="100%" alt="Profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:111827,50:1E3A8A,100:2563EB" width="100%" alt="Footer" />
 </div>
