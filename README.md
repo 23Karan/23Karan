@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm B. Karan Bahadur
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=720&lines=3rd+Year+B.Tech+CSE+Student;Aspiring+Software+%26+Data+Engineer;Exploring+Cloud%2C+DevOps+%26+AI;Building+Practical+Projects" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0EA5E9&center=true&vCenter=true&width=720&lines=Aspiring+Software+%26+Data+Engineer;Exploring+Cloud%2C+DevOps+%26+AI;Building+Practical+Projects" alt="Typing SVG" /></a>
 
 </div>
 
@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I'm **B. Karan Bahadur**, a **3rd year B.Tech CSE student** focused on building practical software and developing strong foundations in **software engineering, data engineering, cloud technologies and AI**.
+I'm **B. Karan Bahadur**, focused on building practical software and developing strong foundations in **software engineering, data engineering, cloud technologies and AI**.
 
-- 🎓 B.Tech Computer Science & Engineering student
+- 🎓 Computer Science & Engineering student
 - 💻 Building and practicing with Java, Python, C, SQL and DSA
 - ☁️ Exploring cloud platforms, Docker, Terraform and DevOps
 - 🤖 Interested in AI/ML, automation and data engineering
@@ -57,8 +57,6 @@ I'm **B. Karan Bahadur**, a **3rd year B.Tech CSE student** focused on building 
 <a href="https://www.linkedin.com/in/b-karan-bahadur-9618b4306"><img src="https://img.shields.io/badge/LinkedIn-B.%20Karan%20Bahadur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
-
-> YouTube, Medium and Instagram are intentionally omitted because the guide says to include only accounts you actually have.
 
 ---
 
